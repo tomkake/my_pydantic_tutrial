@@ -1,0 +1,10 @@
+[project]
+name = "my-pydantic-tutrial"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.10.13"
+dependencies = [
+    "flask>=3.1.0",
+    "pydantic>=2.10.6",
+]
